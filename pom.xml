@@ -14,7 +14,6 @@
         <module>oa_web</module>
     </modules>
 
-
     <properties>
         <spring.version>5.1.6.RELEASE</spring.version>
     </properties>
